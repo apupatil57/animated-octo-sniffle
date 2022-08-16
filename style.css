@@ -65,7 +65,7 @@ main{
         color: #333;
         transition: backgroung500ms ease;
     }   
-    btn:hover{
+     btn:hover{
         background-color: #afaf4f;
     
     }
